@@ -1,0 +1,11 @@
+I just created empty remote depository from
+GitHub.com account by clicking on plus icon on 
+top right corner and new repository
+and give a name and click create
+
+And cloned this repository by clicking on set
+up in Desktop and (optionally select the location)
+click on clone
+
+It cloned our remote repo to local so we can 
+start working locally 
